@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         TORN CITY Property Lease Alerter
 // @namespace    sanxion.tc.propertyleasealerter
-// @version      1.1.1
+// @version      1.1.3
 // @description  Highlights property boxes on the Torn City properties page by the time left on the current lease.
 // @author       Sanxion [2987640]
 // @match        https://www.torn.com/properties.php*
-// @updateURL    https://github.com/Quantarallax/TBD/raw/refs/heads/main/TBD.user.js
-// @downloadURL  https://github.com/Quantarallax/TBD/raw/refs/heads/main/TBD.user.js
+// @updateURL    https://github.com/Quantarallax/Torn-City-Property-Lease-Alerter/raw/refs/heads/main/TornCityPropertyLeaseAlerter.user.js
+// @downloadURL  https://github.com/Quantarallax/Torn-City-Property-Lease-Alerter/raw/refs/heads/main/TornCityPropertyLeaseAlerter.user.js
 // @license      MIT
 // @run-at       document-idle
 // @grant        none
@@ -17,7 +17,7 @@
 
   const LOG_TAG = '[TC Property Lease Alerter]';
   const SCRIPT_NAME = 'TORN CITY Property Lease Alerter';
-  const SCRIPT_VERSION = '1.1.1';
+  const SCRIPT_VERSION = '1.1.3';
   const STORAGE_KEY = 'sanxion_tc_property_lease_alerter_settings';
   const MARK_ATTR = 'data-pla-marked';
   const BAR_ID = 'pla-status-bar';
