@@ -8,7 +8,9 @@ On the properties page of Torn City MMORPG, it will highlight each of your prope
 This allows you sufficient time to send out lease extentions.
 
 # Screenshots
-TBD
+<img width="1041" height="1323" alt="Screenshot 2026-06-30 00 33 08" src="https://github.com/user-attachments/assets/f34f02c6-450e-4782-9070-013988437dd3" />
+
+<img width="500" height="641" alt="Screenshot 2026-06-30 00 35 04" src="https://github.com/user-attachments/assets/fc4fd124-6a99-45b2-88a2-6c06bb6e2e82" />
 
 Any questions, just message me in-game.
 
