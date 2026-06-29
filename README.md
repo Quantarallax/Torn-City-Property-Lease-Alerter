@@ -8,7 +8,14 @@ On the properties page of Torn City MMORPG, it will highlight each of your prope
 This allows you sufficient time to send out lease extentions.
 
 # Screenshots
+
+Main screen showing properties with their colour coded designation based on days remaining on the lease.
+
 <img width="1041" height="1323" alt="Screenshot 2026-06-30 00 33 08" src="https://github.com/user-attachments/assets/f34f02c6-450e-4782-9070-013988437dd3" />
+
+# Settings Page
+
+You can set various values to indicate red, amber or green. At a glance counts of which leases are nearing expiry.
 
 <img width="500" height="641" alt="Screenshot 2026-06-30 00 35 04" src="https://github.com/user-attachments/assets/fc4fd124-6a99-45b2-88a2-6c06bb6e2e82" />
 
