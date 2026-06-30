@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TORN CITY Property Lease Alerter
 // @namespace    sanxion.tc.propertyleasealerter
-// @version      1.1.3
+// @version      1.1.4
 // @description  Highlights property boxes on the Torn City properties page by the time left on the current lease.
 // @author       Sanxion [2987640]
 // @match        https://www.torn.com/properties.php*
@@ -17,7 +17,7 @@
 
   const LOG_TAG = '[TC Property Lease Alerter]';
   const SCRIPT_NAME = 'TORN CITY Property Lease Alerter';
-  const SCRIPT_VERSION = '1.1.3';
+  const SCRIPT_VERSION = '1.1.4';
   const STORAGE_KEY = 'sanxion_tc_property_lease_alerter_settings';
   const MARK_ATTR = 'data-pla-marked';
   const BAR_ID = 'pla-status-bar';
@@ -25,7 +25,7 @@
   const STYLE_ID = 'pla-style';
 
   const PROFILE_URL = 'https://www.torn.com/profiles.php?XID=2987640';
-  const FORUM_URL = 'https://www.torn.com/forums.php#/p=threads&f=67&t=16561948&b=0&a=0&start=0&to=0';
+  const FORUM_URL = 'https://www.torn.com/forums.php#/p=threads&f=67&t=16579242&b=0&a=0&start=0';
   const OTHER_SCRIPTS_URL = 'https://greasyfork.org/en/users/1593713-quantarallax?sort=total_installs';
   const PIXEL_URL = 'https://c.statcounter.com/13226682/0/97211ccb/1/';
 
